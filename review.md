@@ -5,7 +5,7 @@ Your page should display the following:
 - An image of the Simpsons logo
 - A list of links to Simpsons fan sites
 - An "About" section with a paragraph that briefly describes the show
-- A Characters section that provides an unordered list of characters
+- A Characters section that displays a featured character of the week
 - A "Quotes" section that has a quote from the Simpsons
 
 #### Styling
@@ -27,5 +27,5 @@ For this section, feel free to add classes or ids to your existing HTML.
 When `Edit me!` is clicked...
 
 - the background color of the page changes to some other color of your choosing
-- a new slogan of your choosing should appear within the slogan section, in place of the original
-- the first core value is deleted from the page
+- a new character of the week of your choosing should appear within the character section, in place of the original
+- the first quote is deleted from the page
