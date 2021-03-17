@@ -1,6 +1,6 @@
-let editButton = document.getElementById('newQuote')
+let editButton = document.getElementById("newQuote")
 
-editButton.addEventListener('click', () => {
+editButton.addEventListener("click", () => {
   displayNewQuote()
 })
 

@@ -1,5 +1,3 @@
-
-
 Your page should display the following:
 
 - The page title = The Simpsons
@@ -7,7 +5,7 @@ Your page should display the following:
 - An image of the Simpsons logo
 - A list of links to Simpsons fan sites
 - An "About" section with a paragraph that briefly describes the show
-- A Characters section that provides an unordered list of characters
+- A Characters section that displays a featured character of the week
 - A "Quotes" section that has a quote from the Simpsons
 
 #### Styling
@@ -29,20 +27,5 @@ For this section, feel free to add classes or ids to your existing HTML.
 When `Edit me!` is clicked...
 
 - the background color of the page changes to some other color of your choosing
-- a new slogan of your choosing should appear within the slogan section, in place of the original
-- the first core value is deleted from the page
-
-## Exceeds Expectations Requirements
-
-We want to create a little more interaction with our page.
-
-Add functionality and styling such that:
-
-- when the user hovers over the company image, the same slogan of your choosing from before pops up in an alert box
-- when a user hovers over each of the individual Core Values, they turn a different color than they were originally
-- add a button to the bottom of the page which says "Sing a Song!"
-- when a user clicks on the "Sing a Song!" button, an alert box should pop up with lyrics from your favorite song inside
-
-Oh no...we've been hacked! Add a second JavaScript file called `hacked.js` which updates the address on the page to `4 Privet Drive, Little Whinging, Surrey` and the phone number to `867-5309`. Connect this JavaScript file to your webpage so that it enacts change on the page after loading.
-
-[example]: https://s3.amazonaws.com/horizon-production/images/challenge/launch-sc-space-industries-inc-js/example-company-page.png
+- a new character of the week of your choosing should appear within the character section, in place of the original
+- the first quote is deleted from the page
