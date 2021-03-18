@@ -6,7 +6,7 @@ Your page should display the following:
 - A list of links to Simpsons fan sites
 - An "About" section with a paragraph that briefly describes the show
 - A Characters section that displays a featured character of the week
-- A "Quotes" section that has a quote from the Simpsons
+- A "Quotes" section that has a list of quotes from the Simpsons
 
 #### Styling
 
