@@ -7,7 +7,8 @@ body {
   flex-direction: column;
   align-items: center; */
   text-align: center;
-  margin: 10px;
+  /* For a spacing of 10px total */
+  margin: 5px;
 }
 
 #logo {

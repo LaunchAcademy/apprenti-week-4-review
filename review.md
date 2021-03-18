@@ -1,6 +1,6 @@
 Your page should display the following:
 
-- The page title = The Simpsons
+- The page title = The Simpsons. Both in the header and a heading.
 - All sections should have a `heading` at the top
 - An image of the Simpsons logo
 - A list of links to Simpsons fan sites
